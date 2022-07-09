@@ -9,3 +9,6 @@ while runOrNot == True:
         print(helloList[i])
         time.sleep(0.1)
     print(" ")  
+
+def estoEsUnaPrueba(a, b):
+    return a + b
