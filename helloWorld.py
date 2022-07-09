@@ -7,5 +7,5 @@ runOrNot = True
 while runOrNot == True:
     for i in range(len(helloList)):
         print(helloList[i])
-        time.sleep(0.25)
+        time.sleep(0.1)
     print(" ")
