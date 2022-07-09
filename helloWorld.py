@@ -1,4 +1,5 @@
 import time
+from tkinter import Y
 
 helloList = ['H','e','l','l','o',' ','w','o','r','l','d']
 
@@ -21,3 +22,6 @@ print funcionDePrueba2(1, 2)
 def sumar(a, b):
     return a + b
 z = sumar(1, 2)
+def dividir(a, b):
+    return a / b
+p = dividir(1, 2)
